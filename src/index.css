@@ -96,6 +96,10 @@ code {
 .sidebar-chat-info{
   margin-left: 15px;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
 .addnewchat-h2{
   font-size: 15px;
 }
